@@ -37,8 +37,8 @@ const links = [
 const experiences = [
   {
     logo: "/slack.png",
-    organization: "Slack",
-    jobTitle: "Software Engineer",
+    organization: "Global Payments",
+    jobTitle: "Technical support",
     startYear: 2016,
     endYear: null,
   },
