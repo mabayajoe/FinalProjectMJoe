@@ -128,7 +128,7 @@ export default function Projects() {
       </div>
 
       <ProjectCard
-        name="The Firm"
+        name="Calculator"
         logos={"./projectPic.png"}
         content={"Creating technology to empower civilians to explore space on their own terms."}
         link={"https://stage.company-corp.com/platform"}

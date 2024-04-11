@@ -10,6 +10,7 @@ import SignupWidget from "@/components/SignupWidget/SignupWidget";
 import "./page.css";
 
 //import ThemeSwitcher from "@/components/Theme/ThemeSwitcher.jsx";
+import ThemeSwitcher from "@/components/Theme/ThemeSwitcher";
 
 // Experiences that go into the Work Widget
 //// Logo images are stored in the public folder.
@@ -36,7 +37,7 @@ const links = [
 
 const experiences = [
   {
-    logo: "/slack.png",
+    logo: "/globalPayment.png",
     organization: "Global Payments",
     jobTitle: "Technical support",
     startYear: 2023,
@@ -57,7 +58,7 @@ const experiences = [
     endYear: 2022,
   },
   {
-    logo: "/microsoft.png",
+    logo: "/lds.png",
     organization: "Church of Jesus Christ of Latter-day Saints",
     jobTitle: "Full-time missionary",
     startYear: 2017,
@@ -127,7 +128,7 @@ export default function Home() {
           <SkillsWidget title={"Skills"} content={"My skills."} skills={skills} />
           <>
             <SignupWidget
-              title={"Stay up to date"}
+              title={"Want to work together?"}
               content={"Get notified when I publish something new, and unsubscribe at any time."}
             />
           </>

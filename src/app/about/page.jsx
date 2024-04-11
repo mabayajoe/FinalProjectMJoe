@@ -100,7 +100,7 @@ export default function About() {
 
         <div className="aboutColumn">
           <div className="imageStyle">
-            <img src="pic.png" />
+            <img src="snowJoe.png" />
           </div>
 
           <SocialWidget links={socialLinks} />
