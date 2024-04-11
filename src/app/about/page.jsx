@@ -26,17 +26,17 @@ const links = [
 const socialLinks = [
   {
     text: "Follow me on Twitter",
-    url: "https://twitter.com",
+    url: "https://twitter.com/joe_mabaya",
     logo: "https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg",
   },
   {
     text: "Follow me on LinkedIn",
-    url: "https://www.linkedin.com/feed/",
+    url: "https://www.linkedin.com/in/joemabaya/",
     logo: "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
   },
   {
     text: "Follow me on GitHub",
-    url: "https://github.com",
+    url: "https://github.com/mabayajoe",
     logo: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
   },
   {
@@ -70,7 +70,9 @@ export default function About() {
 
       <div className="aboutBody">
         <div className="aboutDescription">
-          <h1 className="h1">I’m Jane. I live in New York City, where I develop the future.</h1>
+          <h1 className="h1">
+            I’m Joe. I live in Utah, a beautiful state with almost every landscape besides the ocean.
+          </h1>
           <br></br>
           <p>
             Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
@@ -112,6 +114,6 @@ export default function About() {
       <div className="footerBox">
         <Footer className="Footer" links={links} />
       </div>
-      </div>
+    </div>
   );
 }
