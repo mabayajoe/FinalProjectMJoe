@@ -1,4 +1,4 @@
-import "/workspaces/cs220-portfolio-group-2/src/components/Article/Articlecards.css";
+import "@/components/Article/Articlecards.css";
 import PropTypes from "prop-types";
 
 const ArticleCard = ({ date, title, content, link }) => {
