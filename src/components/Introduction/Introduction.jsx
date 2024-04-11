@@ -5,8 +5,8 @@ import React from "react";
 const ProfileSection = () => {
   return (
     <div className="profile-section">
-      <img src="profilepic.jpg" alt="profile" clasName="pofilepic" />
-      <h1>Software engineer, father, and believer</h1>
+      <img src="profileJoe.png" alt="profile" clasName="pofilepic" />
+      <h1>Software Engineer, Entrepreneur and World Citizen</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
         adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..
