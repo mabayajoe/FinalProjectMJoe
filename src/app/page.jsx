@@ -5,7 +5,7 @@ import SkillsWidget from "@/components/Widget/SkillsWidget.jsx";
 import Navebar from "@/components/menu/HomeB.jsx";
 import Footer from "@/components/menu/footer.jsx";
 import ArticleCard from "@/components/Article/Articlecards.jsx";
-import ProfileSection from "/workspaces/cs220-portfolio-group-2/src/components/Introduction/Introduction.jsx";
+import ProfileSection from "@/components/Introduction/Introduction.jsx";
 import SignupWidget from "@/components/SignupWidget/SignupWidget";
 import "./page.css";
 
