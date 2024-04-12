@@ -75,24 +75,26 @@ export default function About() {
           </h1>
           <br></br>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
-            adipiscing elit Ut et massa mi..
+            I grew up in the Democratic republic of Congo, a country in central Africa. I moved to the United States in
+            2019 and I have been living in Utah since then.
           </p>
           <br></br>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
-            adipiscing elit Ut et massa mi..
+            From the tropical climat to the cold weather, I have been able to adapt to the new environment and I am
+            enjoying the new experience. The four seasons are amazing and I love the snow in the winter and now picked a
+            new hobby, snowboarding.
           </p>
           <br></br>
           <p>
             {" "}
-            Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
-            adipiscing elit Ut et massa mi..
+            Currently getting my Bachelor's degree in CyberSecurity and a minor in Software development at Ensign
+            college.
           </p>
           <br></br>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
-            adipiscing elit Ut et massa mi..
+            {" "}
+            I am always looking for new opportunities to learn and grow. I am currently working on a few projects and I
+            am always looking for new opportunities to learn and grow.
           </p>
           <br></br>
           <br></br>

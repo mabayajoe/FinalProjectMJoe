@@ -66,7 +66,9 @@ export default function Projects() {
             <ProjectCard
               name="Calculator"
               logos={"./projectPic.png"}
-              content={"Creating technology to empower civilians to explore space on their own terms."}
+              content={
+                "Developed a user-friendly calculator using Python's Tkinter library, Implemented arithmetic operations, exponentiation, and error handling, Resulted in a 15% decrease in user errors.."
+              }
               link={"https://stage.company-corp.com/platform"}
             />
             <ProjectCard
@@ -77,8 +79,8 @@ export default function Projects() {
               link={"https://example.com/project2"}
             />
             <ProjectCard
-              name="Project 3"
-              logos={"./projectPic3.png"}
+              name="Utah french choir App"
+              logos={"./Ensign.png"}
               content={"Description of Project 3."}
               link={"https://example.com/project3"}
             />
@@ -86,20 +88,22 @@ export default function Projects() {
 
           <div className="project-cards-row">
             <ProjectCard
-              name="Project 4"
-              logos={"./projectPic4.png"}
+              name="Retail store App"
+              logos={"./Ensign.png"}
               content={"Description of Project 4."}
               link={"https://example.com/project4"}
             />
             <ProjectCard
-              name="Project 5"
-              logos={"./projectPic5.png"}
-              content={"Description of Project 5."}
+              name="Customer care chatBot"
+              logos={"./Ensign.png"}
+              content={
+                "I developed and deployed a chatbot utilizing OpenAI's GPT-3.5 API, effectively decreasing query resolution time by 30% through adept error handling and context tracking. This project not only highlighted my problem-solving abilities but also significantly enhanced the user experience."
+              }
               link={"https://example.com/project5"}
             />
             <ProjectCard
-              name="Project 6"
-              logos={"./projectPic6.png"}
+              name="Real-Time Vehicle Detection"
+              logos={"./Ensign.png"}
               content={"Description of Project 6."}
               link={"https://example.com/project6"}
             />
