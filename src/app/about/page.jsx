@@ -71,7 +71,7 @@ export default function About() {
       <div className="aboutBody">
         <div className="aboutDescription">
           <h1 className="h1">
-            I’m Joe. I live in Utah, a beautiful state with almost every landscape besides the ocean.
+            I’m Joe. I live in Utah, a hidden gem with all the beautfiul landscapes and fun outdoors besides the ocean.
           </h1>
           <br></br>
           <p>

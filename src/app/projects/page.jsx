@@ -62,43 +62,48 @@ export default function Projects() {
         </div>
 
         <div className="project-cards">
-          <ProjectCard
-            name="Calculator"
-            logos={"./projectPic.png"}
-            content={"Creating technology to empower civilians to explore space on their own terms."}
-            link={"https://stage.company-corp.com/platform"}
-          />
-          <ProjectCard
-            name="Real Estate App"
-            app
-            logos={"./projectPic2.png"}
-            content={"Description of Project 2."}
-            link={"https://example.com/project2"}
-          />
-          <ProjectCard
-            name="Project 3"
-            logos={"./projectPic3.png"}
-            content={"Description of Project 3."}
-            link={"https://example.com/project3"}
-          />
-          <ProjectCard
-            name="Project 4"
-            logos={"./projectPic4.png"}
-            content={"Description of Project 4."}
-            link={"https://example.com/project4"}
-          />
-          <ProjectCard
-            name="Project 5"
-            logos={"./projectPic5.png"}
-            content={"Description of Project 5."}
-            link={"https://example.com/project5"}
-          />
-          <ProjectCard
-            name="Project 6"
-            logos={"./projectPic6.png"}
-            content={"Description of Project 6."}
-            link={"https://example.com/project6"}
-          />
+          <div className="project-cards-row">
+            <ProjectCard
+              name="Calculator"
+              logos={"./projectPic.png"}
+              content={"Creating technology to empower civilians to explore space on their own terms."}
+              link={"https://stage.company-corp.com/platform"}
+            />
+            <ProjectCard
+              name="Real Estate App"
+              app
+              logos={"./Ensign.png"}
+              content={"Description of Project 2."}
+              link={"https://example.com/project2"}
+            />
+            <ProjectCard
+              name="Project 3"
+              logos={"./projectPic3.png"}
+              content={"Description of Project 3."}
+              link={"https://example.com/project3"}
+            />
+          </div>
+
+          <div className="project-cards-row">
+            <ProjectCard
+              name="Project 4"
+              logos={"./projectPic4.png"}
+              content={"Description of Project 4."}
+              link={"https://example.com/project4"}
+            />
+            <ProjectCard
+              name="Project 5"
+              logos={"./projectPic5.png"}
+              content={"Description of Project 5."}
+              link={"https://example.com/project5"}
+            />
+            <ProjectCard
+              name="Project 6"
+              logos={"./projectPic6.png"}
+              content={"Description of Project 6."}
+              link={"https://example.com/project6"}
+            />
+          </div>
         </div>
 
         <div className="footerBox">
